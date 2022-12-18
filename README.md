@@ -4,10 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Programmer
 ----------
 
-I'm a beginner programmer who's currently learning C# the most. I code with VS code & VS. Programs I use: Blender & Photoshop OS I use: Mainly windows & Ubuntu
+I'm a beginner programmer who's currently learning a lot of languages.
 
-*   🧠  I'm learning LuaU, C#, Python & javascript
-*   ### Skills 
+*   ### Skills I'm learning 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
